@@ -1,0 +1,26 @@
+
+name: chat_ui
+description: Chat UI Design.
+
+publish_to: 'taylnyldiz@gmail.com'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0-0 <3.0.0"
+
+dependencies:
+  path_provider: ^2.0.2
+  shared_preferences: ^2.0.6
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  workmanager:
+
+flutter:
+
+  uses-material-design: true
